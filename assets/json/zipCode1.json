@@ -1,0 +1,32 @@
+[
+        {
+                "city": "Frankenbach",
+                "cityActive": true,
+                "id": 1
+        },
+        {
+                "city": "Krumbach",
+                "cityActive": true,
+                "id": 2
+        },
+        {
+                "city": "Fellingshausen",
+                "cityActive": true,
+                "id": 3
+        },
+        {
+                "city": "Königsberg",
+                "cityActive": true,
+                "id": 4
+        },
+        {
+                "city": "Rodheim-Bieber",
+                "cityActive": true,
+                "id": 5
+        },
+        {
+                "city": "Vetzberg",
+                "cityActive": true,
+                "id": 6
+        }
+]

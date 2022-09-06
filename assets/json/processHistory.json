@@ -1,0 +1,23 @@
+[
+    {
+        "userid" : 1,
+        "processDate" : "18/10/2020",
+        "processDetail": "Password Change",
+        "dateFrom": "-",
+        "dateTo": "-"
+    },
+    {
+        "userid" : 1,
+        "processDate" : "25/12/2020",
+        "processDetail": "Order change date",
+        "dateFrom": "26/12/2020",
+        "dateTo": "24/01/2021"
+    },
+    {
+        "userid" : 1,
+        "processDate" : "1/03/2021",
+        "processDetail": "Order removed",
+        "dateFrom": "24/01/2021",
+        "dateTo": "-"
+    }
+]

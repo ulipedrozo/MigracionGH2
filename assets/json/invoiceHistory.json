@@ -1,0 +1,71 @@
+[
+    {
+        "userid" : 1,
+        "invoiceDate" : "18/10/2020",
+        "periodStartDate": "01/10/2020",
+        "periodEndDate": "30/10/2020",
+        "invoiceNumber": "0129912112",
+        "products": [{
+            "name" : "pan 1",
+            "quantity": 3,
+            "price": 200
+        },
+        {
+            "name" : "pan 2",
+            "quantity": 5,
+            "price": 150
+        },
+        {
+            "name": "pan 3",
+            "quantity": 1,
+            "price": 100
+        }],
+        "totalPrice": 2500
+    },
+    {
+        "userid" : 1,
+        "invoiceDate" : "18/10/2020",
+        "periodStartDate": "01/10/2020",
+        "periodEndDate": "30/10/2020",
+        "invoiceNumber": "2812800928",
+        "products": [{
+            "name" : "pan 1",
+            "quantity": 3,
+            "price": 200
+        },
+        {
+            "name" : "pan 2",
+            "quantity": 5,
+            "price": 150
+        },
+        {
+            "name": "pan 3",
+            "quantity": 1,
+            "price": 100
+        }],
+        "totalPrice": 2500
+    },
+    {
+        "userid" : 1,
+        "invoiceDate" : "26/09/2020",
+        "periodStartDate": "01/09/2020",
+        "periodEndDate": "31/09/2020",
+        "invoiceNumber": "9283719281",
+        "products": [{
+            "name" : "pan 1",
+            "quantity": 1,
+            "price": 200
+        },
+        {
+            "name" : "pan 2",
+            "quantity": 1,
+            "price": 150
+        },
+        {
+            "name": "pan 3",
+            "quantity": 1,
+            "price": 100
+        }],
+        "totalPrice": 750
+    }
+]

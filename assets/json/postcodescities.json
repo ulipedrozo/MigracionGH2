@@ -1,0 +1,11 @@
+[
+    {"id":1, "city":"Erda", "postcode":"35644 -Hohenahr"},
+    {"id":8, "city":"Hohensolms", "postcode":"35644 -Hohenahr"},
+    {"id":2 ,"city" :"Frankenbach",  "postcode": "35444 - Biebertal"},
+    {"id":3 ,"city" :"Krumbach",  "postcode": "35444 - Biebertal"},
+    {"id":4 ,"city" :"Fellingshausen",  "postcode": "35444 - Biebertal"},
+    {"id":5 ,"city" :"Königsberg",  "postcode": "35444 - Biebertal"},
+    {"id":6 ,"city" :"Rodheim-Bieber",  "postcode": "35444 - Biebertal"},
+    {"id":7 ,"city" :"Vetzberg",  "postcode": "35444 - Biebertal"}
+    
+]
