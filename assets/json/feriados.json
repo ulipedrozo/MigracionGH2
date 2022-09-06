@@ -1,0 +1,22 @@
+[
+    {"id":1, "day":"01/01/2021", "description":"Año nuevo"},
+    {"id": 2, "day":"01/06/2021", "description":"Epifanía"},
+    {"id": 3, "day":"08/03/2021", "description":"Weltfrauentag"},
+    {"id": 4, "day":"04/02/2021", "description":"Viernes Santo"},
+    {"id": 5, "day":"04/04/2021", "description":"Viernes Santo"},
+    {"id": 6, "day":"04/05/2021", "description":"Pascuas"},
+    {"id": 7, "day":"05/01/2021", "description":"Día del Trabajador"},
+    {"id": 8, "day":"05/13/2021", "description":"Día de la ascensión"},
+    {"id": 9, "day":"05/23/2021", "description":"Pentecostés"},
+    {"id": 10, "day":"05/24/2021", "description":"Lunes de Pentecostés"},
+    {"id": 11, "day":"06/03/2021", "description":"Corpus christi"},
+    {"id": 12, "day":"08/08/2021", "description":"Fiesta de la paz de Augsburgo"},
+    {"id": 13, "day":"08/15/2021", "description":"Día de la Inmaculada Concepción"},
+    {"id": 14, "day":"09/20/2021", "description":"Weltkindertag"},
+    {"id": 15, "day":"10/03/2021", "description":"Día de la unidad alemana"},
+    {"id": 16, "day":"10/31/2021", "description":"Día de las iglesias evangélicas"},
+    {"id": 17, "day":"11/01/2021", "description":"Día de todos los santos"},
+    {"id": 18, "day":"11/17/2021", "description":"Día de la penitencia y de la oración"},
+    {"id": 19, "day":"12/25/2021", "description":"Navidad"},
+    {"id": 20, "day":"12/26/2021", "description":"Natal"}
+]

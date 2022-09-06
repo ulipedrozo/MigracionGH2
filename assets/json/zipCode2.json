@@ -1,0 +1,12 @@
+[
+    {
+        "city": "Erda",
+        "cityActive": true,
+        "id": 7
+    },
+    {
+        "city": "Hohensolms",
+        "cityActive": true,
+        "id": 8
+    }
+]
