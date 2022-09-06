@@ -1,0 +1,43 @@
+server:
+  port: 5000
+  front-port: 4200
+  domain: http://localhost:${server.front-port}
+spring:
+  profiles:
+    active: default
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/deliezius?serverTimezone=UTC
+    username: root
+    password: crulex94
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: lucioirigoyen71@gmail.com
+    password: Bugsbunny1
+    protocol: smtp
+    auth: true
+    tls: true
+    debug: true
+api:
+  security:
+    allow: /auth/login,/auth/refresh-token,/users/register,/users/reset-password-mail,/users/reset-password,/active-zones/cities,/products/active-zones,/contact
+    all-paths: /**
+jwt:
+  expirationInSeconds: 300 # 5 mins
+  refreshExpirationInSeconds: 28800 # 8 hs
+  secret: ?D(G+KbPeShVmYq3t6w9y$B&E)H@McQf
+logging:
+  level:
+    org.springframework: WARN
+    org.springframework.web: DEBUG
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+    com.panes: DEBUG
+  file: logs/Panes${server.port}.log
