@@ -1,0 +1,6 @@
+spring:
+   profiles:
+      active: local
+jwt:
+   expirationInSeconds: 28800 # 8 hs
+   refreshExpirationInSeconds: 28800 # 8 hs
